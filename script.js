@@ -11,7 +11,7 @@ const products = [
     per: "/ day",
     badge: "bridal",
     rating: 5,
-    img: "/images/lehengas/lehengas_image2.jpeg",
+    img: "images/lehengas/lehengas_image2.jpeg",
   },
   {
     id: 2,
@@ -22,7 +22,7 @@ const products = [
     per: "/ day",
     badge: "bridal",
     rating: 5,
-    img: "/images/jewellery/j_1.jpg",
+    img: "images/jewellery/j_1.jpg",
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ const products = [
     per: "/ day",
     badge: "rental",
     rating: 5,
-    img: "/images/gowns/g_2.jpg",
+    img: "images/gowns/g_2.jpg",
   },
   {
     id: 4,
@@ -44,7 +44,7 @@ const products = [
     per: "/ day",
     badge: "new",
     rating: 5,
-    img: "/images/jewellery/j_2.jpg",
+    img: "images/jewellery/j_2.jpg",
   },
   {
     id: 5,
@@ -55,7 +55,7 @@ const products = [
     per: "/ rental",
     badge: "bridal",
     rating: 5,
-    img: "/images/bridel/bridal_image10.jpeg",
+    img: "images/bridel/bridal_image10.jpeg",
   },
   {
     id: 6,
@@ -66,7 +66,7 @@ const products = [
     per: "/ day",
     badge: "rental",
     rating: 4,
-    img: "/images/jewellery/j_3.jpg",
+    img: "images/jewellery/j_3.jpg",
   },
   {
     id: 7,
@@ -77,7 +77,7 @@ const products = [
     per: "/ day",
     badge: "new",
     rating: 4,
-    img: "/images/bridel/bridal_image4.jpg",
+    img: "images/bridel/bridal_image4.jpg",
   },
   {
     id: 8,
@@ -88,7 +88,7 @@ const products = [
     per: "/ day",
     badge: "new",
     rating: 4,
-    img: "/images/jewellery/j_4.jpg",
+    img: "images/jewellery/j_4.jpg",
   },
   {
     id: 9,
@@ -99,7 +99,7 @@ const products = [
     per: "/ day",
     badge: "bridal",
     rating: 5,
-    img: "/images/lehengas/lehengas_image5.jpeg",
+    img: "images/lehengas/lehengas_image5.jpeg",
   },
   {
     id: 10,
@@ -110,7 +110,7 @@ const products = [
     per: "/ day",
     badge: "bridal",
     rating: 5,
-    img: "/images/jewellery/j_5.jpg",
+    img: "images/jewellery/j_5.jpg",
   },
   {
     id: 11,
@@ -121,7 +121,7 @@ const products = [
     per: "/ day",
     badge: "new",
     rating: 4,
-    img: "/images/gowns/g_1.jpg",
+    img: "images/gowns/g_1.jpg",
   },
   {
     id: 12,
@@ -143,7 +143,7 @@ const products = [
     per: "/ day",
     badge: "new",
     rating: 4,
-    img: "/images/bridel/bridal_image10.jpeg",
+    img: "images/bridel/bridal_image10.jpeg",
   },
   {
     id: 14,
@@ -154,7 +154,7 @@ const products = [
     per: "/ day",
     badge: "new",
     rating: 4,
-    img: "/images/bridel/bridal_image11.jpeg",
+    img: "images/bridel/bridal_image11.jpeg",
   },
     {
     id: 15,
@@ -165,7 +165,7 @@ const products = [
     per: "/ rental",
     badge: "bridal",
     rating: 5,
-    img: "/images/bridel/bridal_image9.jpeg",
+    img: "images/bridel/bridal_image9.jpeg",
   },
     {
     id: 16,
@@ -176,7 +176,7 @@ const products = [
     per: "/ day",
     badge: "rental",
     rating: 5,
-    img: "/images/gowns/g_3.jpg",
+    img: "images/gowns/g_3.jpg",
   },
 ];
 
