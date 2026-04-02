@@ -132,7 +132,7 @@ const products = [
     per: "/ day",
     badge: "rental",
     rating: 4,
-    img: "/images/lehengas/lehengas_image7.jpeg",
+    img: "images/lehengas/lehengas_image7.jpeg",
   },
   {
     id: 13,
